@@ -1,0 +1,7 @@
+D:\Programs\MyPrograms\C#projects\WEB_Lab1\WEB_Lab1\bin\Debug\WEB_Lab1.exe.config
+D:\Programs\MyPrograms\C#projects\WEB_Lab1\WEB_Lab1\bin\Debug\WEB_Lab1.exe
+D:\Programs\MyPrograms\C#projects\WEB_Lab1\WEB_Lab1\bin\Debug\WEB_Lab1.pdb
+D:\Programs\MyPrograms\C#projects\WEB_Lab1\WEB_Lab1\obj\Debug\WEB_Lab1.csprojAssemblyReference.cache
+D:\Programs\MyPrograms\C#projects\WEB_Lab1\WEB_Lab1\obj\Debug\WEB_Lab1.csproj.CoreCompileInputs.cache
+D:\Programs\MyPrograms\C#projects\WEB_Lab1\WEB_Lab1\obj\Debug\WEB_Lab1.exe
+D:\Programs\MyPrograms\C#projects\WEB_Lab1\WEB_Lab1\obj\Debug\WEB_Lab1.pdb
