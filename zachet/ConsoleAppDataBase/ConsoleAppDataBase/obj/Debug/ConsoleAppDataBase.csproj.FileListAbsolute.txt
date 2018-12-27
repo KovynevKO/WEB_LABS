@@ -1,0 +1,7 @@
+D:\Studying\WEB\zachet\ConsoleAppDataBase\ConsoleAppDataBase\bin\Debug\ConsoleAppDataBase.exe.config
+D:\Studying\WEB\zachet\ConsoleAppDataBase\ConsoleAppDataBase\bin\Debug\ConsoleAppDataBase.exe
+D:\Studying\WEB\zachet\ConsoleAppDataBase\ConsoleAppDataBase\bin\Debug\ConsoleAppDataBase.pdb
+D:\Studying\WEB\zachet\ConsoleAppDataBase\ConsoleAppDataBase\obj\Debug\ConsoleAppDataBase.csprojAssemblyReference.cache
+D:\Studying\WEB\zachet\ConsoleAppDataBase\ConsoleAppDataBase\obj\Debug\ConsoleAppDataBase.csproj.CoreCompileInputs.cache
+D:\Studying\WEB\zachet\ConsoleAppDataBase\ConsoleAppDataBase\obj\Debug\ConsoleAppDataBase.exe
+D:\Studying\WEB\zachet\ConsoleAppDataBase\ConsoleAppDataBase\obj\Debug\ConsoleAppDataBase.pdb
